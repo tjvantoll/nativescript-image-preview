@@ -5,7 +5,7 @@ A lightweight NativeScript plugin that wraps the [JTSImageViewController](https:
 ## Installation
 
 ```
-tns install nativescript-image-preview
+tns plugin add nativescript-image-preview
 ```
 
 ## Usage
