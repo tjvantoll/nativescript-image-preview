@@ -1,0 +1,9 @@
+{
+  "name": "nativescript-image-preview",
+  "version": "0.1.0",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.5.0"
+    }
+  }
+}
