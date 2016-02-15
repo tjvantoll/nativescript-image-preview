@@ -1,6 +1,6 @@
 # NativeScript Image Preview
 
-A lightweight NativeScript plugin that wraps the [JTSImageViewController](https://cocoapods.org/pods/JTSImageViewController).
+A lightweight NativeScript plugin that wraps the [JTSImageViewController](https://cocoapods.org/pods/JTSImageViewController) CocoaPod.
 
 ## Installation
 
